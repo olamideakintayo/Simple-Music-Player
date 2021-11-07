@@ -1,2 +1,2 @@
 # Simple-Music-Player
-A Simple Web App For Music
+A Simple Web App For playing Music
