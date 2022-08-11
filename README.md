@@ -1,4 +1,6 @@
 # Simple-Music-Player
-A Simple Web App For Music done with HTML, CSS and JAVASCRIPT
+<div>
+A Simple Web App For Music done with HTML, CSS and JAVASCRIPT.
+  </div>
 This is the link to the site 
-<a href= "music-web-player.netlify.app">Music Player</a>
+<a href= "https://music-web-player.netlify.app">Music Player</a>
